@@ -1,3 +1,4 @@
+#include<stdio.h>
 int n1,n2,n3,m;
 
 int main(){
@@ -14,4 +15,5 @@ do scanf("%d", &n3);
 while(n3<0 || n3>10);
 
 m = (n1 + n2 + n3) / 3;
+system("pause");
 }
