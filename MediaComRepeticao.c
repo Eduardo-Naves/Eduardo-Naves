@@ -1,3 +1,4 @@
+#include<stdio.h>
 int n1,n2,n3,m;
 
 int main(){
